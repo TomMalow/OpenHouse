@@ -4,4 +4,4 @@ Dette er kildekode til det HTML5 website der blev fremvist på en iPad til åben
 Ud over filerne her, kan projektet forkes på GitHub: https://github.com/TomMalow/OpenHouse 
 Sitet er i øjeblikket også hostet på http://www.student.dtu.dk/~s103407/ÅbentHus/
 
-Hvis det ønskes at blive hostet på en anden students side kan det gøres ved at følge guiden på http://gbar.dtu.dk/faq/50-homepage
+Hvis det ønskes at blive hostet på en anden students side kan det gøres ved at følge guiden på http://gbar.dtu.dk/faq/50-homepage. "ÅbentHus" mappen skal bare ligge i den studerendes "public_html" mappe og kan derved tilgåes via http://www.student.dtu.dk/~'studienummer'/ÅbentHus/
